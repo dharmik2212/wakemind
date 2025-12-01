@@ -1,0 +1,5 @@
+{
+  "name": "Copy of WakeMind AI",
+  "description": "An intelligent alarm clock that ensures you wake up by requiring you to solve AI-generated typing tasks or math problems to dismiss the alarm.",
+  "requestFramePermissions": []
+}
